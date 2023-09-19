@@ -11,16 +11,16 @@
 #### ■ 데모영상
     [데모영상](https://drive.google.com/file/d/1ZDO24f5axrtJ89k_YU7_XzHdxROOppq4/view?usp=sharing)
 #### ■ 기술스택
-    -사용 언어: Java, JSP<br />
-    -개발 환경: STS, MariaDB<br />
+    -사용 언어: Java, JSP
+    -개발 환경: STS, MariaDB
     -Web: Spring, Lombok
 #### ■ 나의역할
-    -관리자, 사용자 회원가입 및 로그인 기능 구현<br />
-    -신규 도서 CRUD 기능 구현<br />
-    -도서 대출 CRUD 기능 구현<br />
+    -관리자, 사용자 회원가입 및 로그인 기능 구현
+    -신규 도서 CRUD 기능 구현
+    -도서 대출 CRUD 기능 구현
     -희망 도서 요청 기능 구현
 #### ■ 주요특징
-    -JdbcTemplate, spring-security-core, session, JavaMailSenderImpl를 이용한 관리자, 사용자 계정 기능 제공<br />
+    -JdbcTemplate, spring-security-core, session, JavaMailSenderImpl를 이용한 관리자, 사용자 계정 기능 제공
     -MVC 패턴을 이용한 신규 도서, 도서 대출 CRUD 기능 제공
 #### ■ 참고문헌
     -김명호, 올인원 스프링 프레임워크, 한빛아카데미(2023)
