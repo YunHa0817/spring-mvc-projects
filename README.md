@@ -6,10 +6,6 @@
     -개인 프로젝트
 #### ■ 참여도
     -개인작업(1명, 100%)
-#### ■ 보고서
-    [보고서](https://drive.google.com/file/d/1Gh3DxmBFTwQWNH8pez9Aumzftg6nYx5g/view?usp=sharing)
-#### ■ 데모영상
-    [데모영상](https://drive.google.com/file/d/1ZDO24f5axrtJ89k_YU7_XzHdxROOppq4/view?usp=sharing)
 #### ■ 기술스택
     -사용 언어: Java, JSP
     -개발 환경: STS, MariaDB
@@ -24,3 +20,7 @@
     -MVC 패턴을 이용한 신규 도서, 도서 대출 CRUD 기능 제공
 #### ■ 참고문헌
     -김명호, 올인원 스프링 프레임워크, 한빛아카데미(2023)
+#### ■ 보고서
+[보고서](https://drive.google.com/file/d/1Gh3DxmBFTwQWNH8pez9Aumzftg6nYx5g/view?usp=sharing)
+#### ■ 데모영상
+[데모영상](https://drive.google.com/file/d/1ZDO24f5axrtJ89k_YU7_XzHdxROOppq4/view?usp=sharing)
